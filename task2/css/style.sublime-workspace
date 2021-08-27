@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"connect"
+			],
+			[
+				"mys",
+				"mysqli_query"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"conta",
+				"Contact"
+			],
+			[
+				"exec",
+				"exec()"
+			],
+			[
+				"gete",
+				"getElementsByTagName"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"get",
+				"getElementsById"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"firs",
+				"firstname"
+			],
+			[
+				"re",
+				"registration"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"se",
+				"session_destroy"
+			],
+			[
+				"ex",
+				"exit()"
+			],
+			[
+				"session_un",
+				"session_unset()"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"le",
+				"label"
+			],
+			[
+				"heder",
+				"header()"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"pri",
+				"print_r()"
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"_",
+				"$_POST"
+			],
+			[
+				"ph",
+				"photo"
+			],
+			[
+				"arr",
+				"array()"
+			],
+			[
+				"res",
+				"resume"
+			],
+			[
+				"Re",
+				"Registration"
+			],
+			[
+				"iss",
+				"isset()"
+			],
+			[
+				"ech",
+				"echo()"
+			],
+			[
+				"mysqli_c",
+				"mysqli_connect()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dhara_patel/htdocs/task1/registration.php",
+		"/home/dhara_patel/htdocs/user_registration/registration.php",
+		"/home/dhara_patel/Downloads/registration.php",
+		"/home/dhara_patel/htdocs/Online Movie Booking/addbooking.php",
+		"/home/dhara_patel/htdocs/Online Movie Booking/theaternametime.php",
+		"/home/dhara_patel/htdocs/task1/index.php",
+		"/home/dhara_patel/Downloads/task1/registration.php",
+		"/home/dhara_patel/htdocs/Online Movie Booking/tha.php",
+		"/home/dhara_patel/htdocs/Online Movie Booking/city.php",
+		"/home/dhara_patel/htdocs/Online Movie Booking/style.css",
+		"/home/dhara_patel/htdocs/Online-Movie-Ticket-Booking-Script-Free-master/db.php",
+		"/home/dhara_patel/htdocs/Addbooking.php",
+		"/home/dhara_patel/htdocs/Online-Movie-Ticket-Booking-Script-Free-master/process/bookticket.php",
+		"/home/dhara_patel/htdocs/Online-Movie-Ticket-Booking-Script-Free-master/showbookings.php",
+		"/home/dhara_patel/htdocs/Online-Movie-Ticket-Booking-Script-Free-master/theater/booking.php",
+		"/home/dhara_patel/htdocs/Online-Movie-Ticket-Booking-Script-Free-master/data/index.php",
+		"/home/dhara_patel/htdocs/Online-Movie-Ticket-Booking-Script-Free-master/db/admin.php",
+		"/home/dhara_patel/htdocs/Online-Movie-Ticket-Booking-Script-Free-master/get_date.php",
+		"/home/dhara_patel/htdocs/Online-Movie-Ticket-Booking-Script-Free-master/db/db.php",
+		"/home/dhara_patel/htdocs/movie/db.php",
+		"/home/dhara_patel/htdocs/Cinema-Reservation/booking.php",
+		"/home/dhara_patel/htdocs/Online Movie Booking/seat.php",
+		"/home/dhara_patel/htdocs/Online Movie Booking/css/style.css",
+		"/home/dhara_patel/Downloads/CINEMA_SEAT_RESERVATION_SYSTEM_IN_PHP_WITH_SOURCE_CODE/Cinema-Reservation/booking.php",
+		"/home/dhara_patel/htdocs/User registration/registration.php",
+		"/home/dhara_patel/htdocs/Online Movie Booking/bookingseat.php",
+		"/home/dhara_patel/htdocs/Online Movie Booking/booking.php",
+		"/home/dhara_patel/Downloads/CINEMA_SEAT_RESERVATION_SYSTEM_IN_PHP_WITH_SOURCE_CODE/Cinema-Reservation/contact-us.php",
+		"/home/dhara_patel/Downloads/CINEMA_SEAT_RESERVATION_SYSTEM_IN_PHP_WITH_SOURCE_CODE/Cinema-Reservation/admin/admin.php",
+		"/home/dhara_patel/Downloads/CINEMA_SEAT_RESERVATION_SYSTEM_IN_PHP_WITH_SOURCE_CODE/Cinema-Reservation/php/booking.php",
+		"/home/dhara_patel/Downloads/CINEMA_SEAT_RESERVATION_SYSTEM_IN_PHP_WITH_SOURCE_CODE/Cinema-Reservation/schedule.php",
+		"/home/dhara_patel/Downloads/OnlineMovieTicketBS-PHP/booking.php",
+		"/home/dhara_patel/Downloads/OnlineMovieTicketBS-PHP/process_booking.php",
+		"/home/dhara_patel/htdocs/Online Movie Booking/temp.js",
+		"/home/dhara_patel/htdocs/Online Movie Booking/temp.css",
+		"/home/dhara_patel/htdocs/Online Movie Booking/temp.html",
+		"/home/dhara_patel/htdocs/Online Movie Booking/js/seats.js",
+		"/home/dhara_patel/htdocs/datetime.js",
+		"/home/dhara_patel/htdocs/movie/ticketProcessing.php",
+		"/home/dhara_patel/Downloads/MOVIE_TICKETING_SYSTEM_IN_PHP_WITH_SOURCE_CODE/movie/showtimes.php",
+		"/home/dhara_patel/htdocs/movie/ticketConfirmation.php",
+		"/home/dhara_patel/Downloads/Movie Ticket  Booking System in PHP/Movie-Ticket-Booking/booking.php",
+		"/home/dhara_patel/htdocs/Movie-Ticket-Booking/php/booking.php",
+		"/home/dhara_patel/htdocs/User registration/welcome.php",
+		"/home/dhara_patel/htdocs/User registration/style.css",
+		"/home/dhara_patel/htdocs/User registration/db_connection.php",
+		"/home/dhara_patel/htdocs/User registration/php/update.php",
+		"/home/dhara_patel/htdocs/User registration/test.php",
+		"/home/dhara_patel/Downloads/registration (2).php",
+		"/home/dhara_patel/Downloads/registration (1).php",
+		"/home/dhara_patel/Downloads/action.php",
+		"/home/dhara_patel/Downloads/ImportFile/index.php",
+		"/home/dhara_patel/Downloads/ImportFile/action.php",
+		"/home/dhara_patel/htdocs/User registration/js/validation.js",
+		"/home/dhara_patel/htdocs/User registration/logout.php",
+		"/home/dhara_patel/htdocs/User registration/update.php",
+		"/home/dhara_patel/htdocs/User registration/php/delete.php",
+		"/home/dhara_patel/Downloads/update (1).php",
+		"/home/dhara_patel/htdocs/User registration/11.php",
+		"/home/dhara_patel/htdocs/User registration/read.php",
+		"/home/dhara_patel/htdocs/User registration/index.php",
+		"/home/dhara_patel/Downloads/index.php",
+		"/home/dhara_patel/Downloads/update.php",
+		"/home/dhara_patel/Downloads/welcome.php",
+		"/home/dhara_patel/htdocs/User registration/try.php",
+		"/home/dhara_patel/htdocs/User registration/extra.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
